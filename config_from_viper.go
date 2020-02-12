@@ -1,4 +1,4 @@
-package easyconfig
+package configapp
 
 import (
 	"errors"
